@@ -17,5 +17,8 @@ This project uses Machine Learning and Natural Language Processing (NLP) to clas
 ## Result
 Achieved approximately 98% accuracy on the test dataset.
 
+## Screenshot
+![Accuracy](image.png)
+
 ## Author
 Lahari Kemburi
